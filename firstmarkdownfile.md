@@ -5,7 +5,7 @@
 * This is my second bullet point
 * This **bullet** is in **bold** 
 * This *bullet* is in *itlalic*
-* This [links to linkedin] (http://linkedin.com/shannisilberberg)
+* This [links to linkedin] (http://linkedin.com/in/shannisilberberg)
 
 ~~this is a mistake~~
 
