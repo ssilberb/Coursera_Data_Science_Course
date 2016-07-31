@@ -7,7 +7,7 @@
 * This *bullet* is in *itlalic*
 * This [links to linkedin] (http://linkedin.com/shannisilberberg)
 
---this is a mistake--
+~~this is a mistake~~
 
 Enhancer Number | Genomic Location
 --------------- | ----------------
